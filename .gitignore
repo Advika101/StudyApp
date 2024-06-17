@@ -1,0 +1,12 @@
+#env files
+.env
+env.sh
+
+#venvs
+/.venv
+/venv
+/__pycache__
+
+/output
+credentials.json
+token.json
